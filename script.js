@@ -56,7 +56,7 @@ hilang1.addEventListener('click', () => {
   hilang1.style.display = "none"
   hilang2.style.display = "block"
   Swal.fire({
-    imageUrl: "/assets/img/stiker_mylove.gif",
+    imageUrl: "/stiker_mylove.gif",
     imageHeight: 120,
     title: 'Halo Kenalan Dong, Nama Kamu Siapa ?',
     html: `<input type="text" id="login" class="swal2-input" placeholder="Nama Kamu">`,
